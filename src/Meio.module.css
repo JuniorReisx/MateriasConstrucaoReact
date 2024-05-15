@@ -1,0 +1,8 @@
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    display: grid;
+    grid-template-columns: auto auto auto ;
+}
